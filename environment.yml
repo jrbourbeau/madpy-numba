@@ -7,3 +7,6 @@ dependencies:
   - jupyterlab>=1.0
   - pillow
   - bokeh
+  - umap-learn
+  - scikit-learn
+  - matplotlib
