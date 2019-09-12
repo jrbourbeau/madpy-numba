@@ -1,0 +1,9 @@
+channels:
+  - conda-forge
+dependencies:
+  - python=3
+  - numba=0.45.1
+  - pandas
+  - jupyterlab>=1.0
+  - pillow
+  - bokeh
